@@ -42,11 +42,5 @@ For each task, models are trained and compared on:
 
 ---
 
-## 📁 Repository Structure
-* `Second_assignment_notebook.ipynb`: The full Google Colab notebook with data preprocessing, model training, and visualizations.
-* `ML_Second_Assignment_Report.pdf`: The detailed technical report explaining the theoretical background and analyzing the results.
-
----
-
 ## 👨‍💻 Author
 **Fabio Iacus** Machine Learning Project - January 2026
